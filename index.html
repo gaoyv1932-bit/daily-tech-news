@@ -3,107 +3,507 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>每日前沿资讯</title>
-
+  <meta name="description" content="聚合人工智能、科技、化工与经济领域的前沿资讯。">
+  <title>每日前沿资讯 · Frontier Daily</title>
   <style>
+    :root {
+      color-scheme: dark;
+      --bg: #071018;
+      --surface: rgba(16, 29, 42, 0.78);
+      --surface-strong: #102033;
+      --line: rgba(148, 163, 184, 0.18);
+      --text: #f4f8fb;
+      --muted: #9fb0c0;
+      --cyan: #57e3ff;
+      --blue: #668cff;
+      --green: #7cf2b0;
+      --orange: #ffb86b;
+      --purple: #be91ff;
+      --shadow: 0 24px 70px rgba(0, 0, 0, 0.32);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
     body {
       margin: 0;
-      font-family: Arial, "Microsoft YaHei", sans-serif;
-      background: #0d1117;
-      color: #e6edf3;
+      min-height: 100vh;
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", "Microsoft YaHei", sans-serif;
+      background:
+        radial-gradient(circle at 12% 4%, rgba(87, 227, 255, 0.14), transparent 28rem),
+        radial-gradient(circle at 88% 18%, rgba(102, 140, 255, 0.13), transparent 30rem),
+        var(--bg);
     }
 
-    header {
-      padding: 50px 20px;
-      text-align: center;
-      background: linear-gradient(135deg, #161b22, #102a43);
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.18;
+      background-image:
+        linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
+      background-size: 42px 42px;
+      mask-image: linear-gradient(to bottom, black, transparent 72%);
     }
 
-    header h1 {
-      margin-bottom: 10px;
+    a { color: inherit; }
+
+    .shell {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
     }
 
-    nav {
-      text-align: center;
-      padding: 18px;
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 24px 0;
     }
 
-    nav button {
-      margin: 5px;
-      padding: 9px 18px;
-      color: white;
-      background: #21262d;
-      border: 1px solid #30363d;
-      border-radius: 20px;
-      cursor: pointer;
-    }
-
-    nav button:hover {
-      background: #238636;
-    }
-
-    main {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-
-    article {
-      margin-bottom: 18px;
-      padding: 22px;
-      background: #161b22;
-      border: 1px solid #30363d;
-      border-radius: 12px;
-    }
-
-    article h2 {
-      margin-top: 0;
-    }
-
-    article a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-
-    .category {
-      color: #7ee787;
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      font-weight: 800;
+      letter-spacing: .08em;
       font-size: 14px;
+    }
+
+    .brand-mark {
+      display: grid;
+      place-items: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 11px;
+      color: #061019;
+      background: linear-gradient(135deg, var(--cyan), var(--green));
+      box-shadow: 0 0 28px rgba(87, 227, 255, .25);
+    }
+
+    .date {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .hero {
+      padding: 64px 0 46px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: var(--cyan);
+      font-size: 13px;
+      font-weight: 750;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 28px;
+      height: 1px;
+      background: currentColor;
+    }
+
+    h1 {
+      max-width: 760px;
+      margin: 0;
+      font-size: clamp(40px, 8vw, 78px);
+      line-height: 1.03;
+      letter-spacing: -.055em;
+    }
+
+    h1 span {
+      color: transparent;
+      background: linear-gradient(100deg, var(--cyan), #d3f8ff 42%, var(--purple));
+      background-clip: text;
+      -webkit-background-clip: text;
+    }
+
+    .hero-copy {
+      max-width: 650px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: clamp(16px, 2vw, 19px);
+      line-height: 1.8;
+    }
+
+    .control-panel {
+      position: sticky;
+      top: 14px;
+      z-index: 10;
+      display: grid;
+      grid-template-columns: minmax(220px, 1fr) auto;
+      gap: 16px;
+      align-items: center;
+      margin: 16px 0 34px;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background: rgba(8, 18, 28, .78);
+      backdrop-filter: blur(18px);
+      box-shadow: var(--shadow);
+    }
+
+    .search {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+      padding: 0 15px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(255,255,255,.035);
+    }
+
+    .search svg {
+      flex: none;
+      color: var(--muted);
+    }
+
+    .search input {
+      width: 100%;
+      height: 48px;
+      border: 0;
+      outline: 0;
+      color: var(--text);
+      background: transparent;
+      font: inherit;
+    }
+
+    .search input::placeholder { color: #708397; }
+
+    .filters {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .filters::-webkit-scrollbar { display: none; }
+
+    .filter {
+      flex: none;
+      padding: 11px 15px;
+      border: 1px solid transparent;
+      border-radius: 999px;
+      color: var(--muted);
+      background: transparent;
+      cursor: pointer;
+      font: inherit;
+      font-size: 14px;
+      transition: .2s ease;
+    }
+
+    .filter:hover,
+    .filter:focus-visible {
+      color: var(--text);
+      border-color: var(--line);
+      outline: none;
+    }
+
+    .filter.active {
+      color: #061019;
+      font-weight: 750;
+      background: var(--cyan);
+      box-shadow: 0 0 22px rgba(87, 227, 255, .18);
+    }
+
+    .section-heading {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+      font-size: 24px;
+      letter-spacing: -.03em;
+    }
+
+    #resultCount {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+      padding-bottom: 74px;
+    }
+
+    .card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      min-height: 290px;
+      padding: 24px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      background: linear-gradient(145deg, rgba(20, 37, 53, .88), rgba(10, 22, 33, .72));
+      box-shadow: 0 16px 45px rgba(0,0,0,.16);
+      transition: transform .22s ease, border-color .22s ease, box-shadow .22s ease;
+    }
+
+    .card::after {
+      content: "";
+      position: absolute;
+      right: -60px;
+      top: -70px;
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      opacity: .12;
+      background: var(--accent, var(--cyan));
+      filter: blur(8px);
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      border-color: color-mix(in srgb, var(--accent, var(--cyan)) 50%, transparent);
+      box-shadow: 0 24px 64px rgba(0,0,0,.28);
+    }
+
+    .card[data-category="AI"] { --accent: var(--cyan); }
+    .card[data-category="科技"] { --accent: var(--blue); }
+    .card[data-category="化工"] { --accent: var(--green); }
+    .card[data-category="经济"] { --accent: var(--orange); }
+
+    .meta {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .tag {
+      padding: 6px 9px;
+      border-radius: 999px;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 10%, transparent);
+      border: 1px solid color-mix(in srgb, var(--accent) 24%, transparent);
+      font-weight: 750;
+    }
+
+    .card h3 {
+      position: relative;
+      z-index: 1;
+      margin: 24px 0 12px;
+      font-size: clamp(21px, 3vw, 27px);
+      line-height: 1.28;
+      letter-spacing: -.03em;
+    }
+
+    .summary {
+      position: relative;
+      z-index: 1;
+      margin: 0 0 24px;
+      color: var(--muted);
+      line-height: 1.75;
+    }
+
+    .card-footer {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-top: auto;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .card-link {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .card-link:hover { color: var(--accent); }
+
+    .empty {
+      display: none;
+      grid-column: 1 / -1;
+      padding: 70px 20px;
+      color: var(--muted);
+      text-align: center;
+      border: 1px dashed var(--line);
+      border-radius: 22px;
+    }
+
+    footer {
+      padding: 22px 0 38px;
+      color: #718396;
+      text-align: center;
+      font-size: 12px;
+    }
+
+    @media (max-width: 820px) {
+      .hero { padding-top: 38px; }
+      .control-panel { grid-template-columns: 1fr; }
+      .news-grid { grid-template-columns: 1fr; }
+      .card { min-height: 260px; }
+    }
+
+    @media (max-width: 520px) {
+      .shell { width: min(100% - 22px, 1120px); }
+      .topbar { padding-top: 18px; }
+      .date { display: none; }
+      .hero { padding-bottom: 30px; }
+      .control-panel { top: 8px; padding: 10px; border-radius: 17px; }
+      .card { padding: 20px; border-radius: 18px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
     }
   </style>
 </head>
-
 <body>
-  <header>
-    <h1>每日前沿资讯</h1>
-    <p>用更短的时间，了解 AI、科技、化工和经济动态</p>
-  </header>
+  <div class="shell">
+    <div class="topbar">
+      <div class="brand"><span class="brand-mark">F</span> FRONTIER DAILY</div>
+      <div class="date" id="today"></div>
+    </div>
 
-  <nav>
-    <button>全部</button>
-    <button>人工智能</button>
-    <button>科技</button>
-    <button>化工</button>
-    <button>经济</button>
-  </nav>
+    <header class="hero">
+      <div class="eyebrow">个人前沿情报站</div>
+      <h1>每天读懂一点<br><span>正在发生的未来</span></h1>
+      <p class="hero-copy">筛选人工智能、科技、化工与经济领域的重要进展，把复杂内容整理成真正值得读的中文摘要。</p>
+    </header>
 
-  <main>
-    <article>
-      <div class="category">人工智能</div>
-      <h2>第一篇测试资讯</h2>
-      <p>
-        这里以后会显示文章的中文摘要、核心观点以及可能产生的影响。
-      </p>
-      <a href="#">查看原文 →</a>
-    </article>
+    <section class="control-panel" aria-label="资讯筛选工具">
+      <label class="search">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/>
+          <path d="m20 20-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <input id="searchInput" type="search" placeholder="搜索标题、摘要或来源" autocomplete="off">
+      </label>
 
-    <article>
-      <div class="category">化工与能源</div>
-      <h2>煤化工与碳减排技术进展</h2>
-      <p>
-        这里可以整理煤制气、二氧化碳还原、催化剂和碳捕集等领域的最新进展。
-      </p>
-      <a href="#">查看原文 →</a>
-    </article>
-  </main>
+      <div class="filters" aria-label="资讯分类">
+        <button class="filter active" data-filter="全部" type="button">全部</button>
+        <button class="filter" data-filter="AI" type="button">AI</button>
+        <button class="filter" data-filter="科技" type="button">科技</button>
+        <button class="filter" data-filter="化工" type="button">化工</button>
+        <button class="filter" data-filter="经济" type="button">经济</button>
+      </div>
+    </section>
+
+    <main>
+      <div class="section-heading">
+        <h2>今日精选</h2>
+        <span id="resultCount" aria-live="polite"></span>
+      </div>
+
+      <section class="news-grid" id="newsGrid">
+        <article class="card" data-category="AI" data-search="人工智能 Agent 工具调用 工作流 OpenAI Developers">
+          <div class="meta"><span class="tag">AI</span><span>6分钟阅读</span></div>
+          <h3>从聊天机器人到Agent：AI开始执行完整任务</h3>
+          <p class="summary">理解模型、工具、记忆和工作流如何组合，建立使用AI Agent的基础框架。</p>
+          <div class="card-footer"><span>OpenAI Developers</span><a class="card-link" href="https://developers.openai.com/" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
+        </article>
+
+        <article class="card" data-category="化工" data-search="化工 二氧化碳还原 催化 碳捕集 Nature Chemistry">
+          <div class="meta"><span class="tag">化工</span><span>8分钟阅读</span></div>
+          <h3>CO₂转化研究：从催化机理走向工程放大</h3>
+          <p class="summary">关注催化剂选择性、能耗和规模化之间的联系，为后续阅读研究论文建立问题清单。</p>
+          <div class="card-footer"><span>Nature Chemistry</span><a class="card-link" href="https://www.nature.com/nchem/" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
+        </article>
+
+        <article class="card" data-category="科技" data-search="科技 论文 研究 前沿 Nature Science">
+          <div class="meta"><span class="tag">科技</span><span>5分钟阅读</span></div>
+          <h3>如何快速判断一项新技术是否真正重要</h3>
+          <p class="summary">从性能提升、应用边界、成本下降和可复制性四个维度，减少被单一指标误导。</p>
+          <div class="card-footer"><span>Nature</span><a class="card-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
+        </article>
+
+        <article class="card" data-category="经济" data-search="经济 技术 生产率 投资 IMF Blog">
+          <div class="meta"><span class="tag">经济</span><span>7分钟阅读</span></div>
+          <h3>技术浪潮如何影响生产率、就业与投资</h3>
+          <p class="summary">把宏观叙事拆成企业投入、劳动效率和资本回报三个可观察的判断维度。</p>
+          <div class="card-footer"><span>IMF Blog</span><a class="card-link" href="https://www.imf.org/en/Blogs" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
+        </article>
+
+        <article class="card" data-category="化工" data-search="化工 能源 CCUS 碳捕集 IEA">
+          <div class="meta"><span class="tag">化工</span><span>6分钟阅读</span></div>
+          <h3>CCUS项目需要同时回答哪些工程问题</h3>
+          <p class="summary">从气源纯度、捕集路线、运输条件和封存监测理解一条完整的碳管理链条。</p>
+          <div class="card-footer"><span>IEA</span><a class="card-link" href="https://www.iea.org/energy-system/carbon-capture-utilisation-and-storage" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
+        </article>
+
+        <article class="card" data-category="AI" data-search="AI 论文 arXiv 机器学习 研究">
+          <div class="meta"><span class="tag">AI</span><span>4分钟阅读</span></div>
+          <h3>读AI论文前，先分清能力展示与可靠证据</h3>
+          <p class="summary">检查基准、对照实验、数据污染与真实使用场景，让论文摘要服务于判断而非制造兴奋。</p>
+          <div class="card-footer"><span>arXiv</span><a class="card-link" href="https://arxiv.org/list/cs.AI/recent" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
+        </article>
+
+        <div class="empty" id="emptyState">没有找到匹配的资讯，换个关键词试试。</div>
+      </section>
+    </main>
+
+    <footer>FRONTIER DAILY · 保持好奇，也保留判断</footer>
+  </div>
+
+  <script>
+    const searchInput = document.querySelector('#searchInput');
+    const filterButtons = [...document.querySelectorAll('.filter')];
+    const cards = [...document.querySelectorAll('.card')];
+    const resultCount = document.querySelector('#resultCount');
+    const emptyState = document.querySelector('#emptyState');
+    let activeCategory = '全部';
+
+    document.querySelector('#today').textContent = new Intl.DateTimeFormat('zh-CN', {
+      year: 'numeric', month: 'long', day: 'numeric', weekday: 'long'
+    }).format(new Date());
+
+    function updateResults() {
+      const keyword = searchInput.value.trim().toLowerCase();
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const categoryMatches = activeCategory === '全部' || card.dataset.category === activeCategory;
+        const text = `${card.textContent} ${card.dataset.search || ''}`.toLowerCase();
+        const keywordMatches = !keyword || text.includes(keyword);
+        const visible = categoryMatches && keywordMatches;
+        card.hidden = !visible;
+        if (visible) visibleCount += 1;
+      });
+
+      resultCount.textContent = `显示 ${visibleCount} 条资讯`;
+      emptyState.style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+
+    filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        activeCategory = button.dataset.filter;
+        filterButtons.forEach(item => item.classList.toggle('active', item === button));
+        updateResults();
+      });
+    });
+
+    searchInput.addEventListener('input', updateResults);
+    updateResults();
+  </script>
 </body>
 </html>
