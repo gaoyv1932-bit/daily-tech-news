@@ -257,6 +257,8 @@
       transition: transform .22s ease, border-color .22s ease, box-shadow .22s ease;
     }
 
+    .card[hidden] { display: none; }
+
     .card::after {
       content: "";
       position: absolute;
@@ -416,48 +418,6 @@
       </div>
 
       <section class="news-grid" id="newsGrid">
-        <article class="card" data-category="AI" data-search="人工智能 Agent 工具调用 工作流 OpenAI Developers">
-          <div class="meta"><span class="tag">AI</span><span>6分钟阅读</span></div>
-          <h3>从聊天机器人到Agent：AI开始执行完整任务</h3>
-          <p class="summary">理解模型、工具、记忆和工作流如何组合，建立使用AI Agent的基础框架。</p>
-          <div class="card-footer"><span>OpenAI Developers</span><a class="card-link" href="https://developers.openai.com/" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
-        </article>
-
-        <article class="card" data-category="化工" data-search="化工 二氧化碳还原 催化 碳捕集 Nature Chemistry">
-          <div class="meta"><span class="tag">化工</span><span>8分钟阅读</span></div>
-          <h3>CO₂转化研究：从催化机理走向工程放大</h3>
-          <p class="summary">关注催化剂选择性、能耗和规模化之间的联系，为后续阅读研究论文建立问题清单。</p>
-          <div class="card-footer"><span>Nature Chemistry</span><a class="card-link" href="https://www.nature.com/nchem/" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
-        </article>
-
-        <article class="card" data-category="科技" data-search="科技 论文 研究 前沿 Nature Science">
-          <div class="meta"><span class="tag">科技</span><span>5分钟阅读</span></div>
-          <h3>如何快速判断一项新技术是否真正重要</h3>
-          <p class="summary">从性能提升、应用边界、成本下降和可复制性四个维度，减少被单一指标误导。</p>
-          <div class="card-footer"><span>Nature</span><a class="card-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
-        </article>
-
-        <article class="card" data-category="经济" data-search="经济 技术 生产率 投资 IMF Blog">
-          <div class="meta"><span class="tag">经济</span><span>7分钟阅读</span></div>
-          <h3>技术浪潮如何影响生产率、就业与投资</h3>
-          <p class="summary">把宏观叙事拆成企业投入、劳动效率和资本回报三个可观察的判断维度。</p>
-          <div class="card-footer"><span>IMF Blog</span><a class="card-link" href="https://www.imf.org/en/Blogs" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
-        </article>
-
-        <article class="card" data-category="化工" data-search="化工 能源 CCUS 碳捕集 IEA">
-          <div class="meta"><span class="tag">化工</span><span>6分钟阅读</span></div>
-          <h3>CCUS项目需要同时回答哪些工程问题</h3>
-          <p class="summary">从气源纯度、捕集路线、运输条件和封存监测理解一条完整的碳管理链条。</p>
-          <div class="card-footer"><span>IEA</span><a class="card-link" href="https://www.iea.org/energy-system/carbon-capture-utilisation-and-storage" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
-        </article>
-
-        <article class="card" data-category="AI" data-search="AI 论文 arXiv 机器学习 研究">
-          <div class="meta"><span class="tag">AI</span><span>4分钟阅读</span></div>
-          <h3>读AI论文前，先分清能力展示与可靠证据</h3>
-          <p class="summary">检查基准、对照实验、数据污染与真实使用场景，让论文摘要服务于判断而非制造兴奋。</p>
-          <div class="card-footer"><span>arXiv</span><a class="card-link" href="https://arxiv.org/list/cs.AI/recent" target="_blank" rel="noopener noreferrer">访问来源 ↗</a></div>
-        </article>
-
         <div class="empty" id="emptyState">没有找到匹配的资讯，换个关键词试试。</div>
       </section>
     </main>
@@ -468,14 +428,68 @@
   <script>
     const searchInput = document.querySelector('#searchInput');
     const filterButtons = [...document.querySelectorAll('.filter')];
-    const cards = [...document.querySelectorAll('.card')];
+    const newsGrid = document.querySelector('#newsGrid');
     const resultCount = document.querySelector('#resultCount');
     const emptyState = document.querySelector('#emptyState');
+    let newsItems = [];
+    let cards = [];
     let activeCategory = '全部';
 
     document.querySelector('#today').textContent = new Intl.DateTimeFormat('zh-CN', {
       year: 'numeric', month: 'long', day: 'numeric', weekday: 'long'
     }).format(new Date());
+
+    function safeUrl(value) {
+      try {
+        const url = new URL(value);
+        return ['http:', 'https:'].includes(url.protocol) ? url.href : '#';
+      } catch {
+        return '#';
+      }
+    }
+
+    function createTextElement(tag, className, text) {
+      const element = document.createElement(tag);
+      if (className) element.className = className;
+      element.textContent = text;
+      return element;
+    }
+
+    function createCard(item) {
+      const article = document.createElement('article');
+      article.className = 'card';
+      article.dataset.category = item.category;
+      article.dataset.search = [item.title, item.summary, item.source, item.keywords]
+        .filter(Boolean).join(' ');
+
+      const meta = createTextElement('div', 'meta', '');
+      meta.append(
+        createTextElement('span', 'tag', item.category),
+        createTextElement('span', '', item.readTime || '快速阅读')
+      );
+
+      const footer = createTextElement('div', 'card-footer', '');
+      const link = createTextElement('a', 'card-link', '访问来源 ↗');
+      link.href = safeUrl(item.url);
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      footer.append(createTextElement('span', '', item.source), link);
+
+      article.append(
+        meta,
+        createTextElement('h3', '', item.title),
+        createTextElement('p', 'summary', item.summary),
+        footer
+      );
+      return article;
+    }
+
+    function renderNews() {
+      cards.forEach(card => card.remove());
+      cards = newsItems.map(createCard);
+      cards.forEach(card => newsGrid.insertBefore(card, emptyState));
+      updateResults();
+    }
 
     function updateResults() {
       const keyword = searchInput.value.trim().toLowerCase();
@@ -491,7 +505,24 @@
       });
 
       resultCount.textContent = `显示 ${visibleCount} 条资讯`;
+      emptyState.textContent = newsItems.length
+        ? '没有找到匹配的资讯，换个关键词试试。'
+        : '资讯数据暂时无法加载，请稍后刷新。';
       emptyState.style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+
+    async function loadNews() {
+      try {
+        const response = await fetch('./news.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        if (!Array.isArray(data)) throw new Error('资讯数据格式错误');
+        newsItems = data;
+      } catch (error) {
+        console.error('资讯加载失败：', error);
+        newsItems = [];
+      }
+      renderNews();
     }
 
     filterButtons.forEach(button => {
@@ -503,7 +534,7 @@
     });
 
     searchInput.addEventListener('input', updateResults);
-    updateResults();
+    loadNews();
   </script>
 </body>
 </html>
