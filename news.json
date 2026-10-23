@@ -1,6 +1,17 @@
 [
   {
     "category": "经济",
+    "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+    "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-23T15:15:13Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
     "title": "What is PHP and why did it spark a global cyber-security scramble?",
     "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
     "source": "BBC Business",
@@ -29,17 +40,6 @@
     "sourceId": "bbc-business",
     "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_campaign=rss&at_medium=RSS",
     "publishedAt": "2026-10-23T11:48:04Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "What is the Budget and what could be in it?",
-    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-23T08:14:04Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
