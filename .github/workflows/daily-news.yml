@@ -1,0 +1,71 @@
+name: Update news and deploy
+
+on:
+  schedule:
+    # 00:17 UTC = 08:17 Asia/Shanghai. Avoid the busy top of the hour.
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'news.json'
+      - 'news-meta.json'
+      - 'feeds.json'
+      - 'update_news.py'
+      - 'test_update_news.py'
+      - '.github/workflows/daily-news.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-news-pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Test RSS parser and failure recovery
+        run: python3 -m unittest -v test_update_news.py
+      - name: Fetch current news
+        run: python3 update_news.py
+      - name: Save refreshed news
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add news.json news-meta.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update daily RSS news'
+            git push origin HEAD:main
+          fi
+      - name: Prepare public files
+        run: |
+          mkdir -p public
+          cp index.html news.json news-meta.json public/
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy refreshed website
+        id: deployment
+        uses: actions/deploy-pages@v5
