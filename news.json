@@ -1,56 +1,145 @@
 [
   {
-    "category": "AI",
-    "readTime": "6分钟阅读",
-    "title": "从聊天机器人到Agent：AI开始执行完整任务",
-    "summary": "理解模型、工具、记忆和工作流如何组合，建立使用AI Agent的基础框架。",
-    "source": "OpenAI Developers",
-    "url": "https://developers.openai.com/",
-    "keywords": "人工智能 Agent 工具调用 工作流"
-  },
-  {
-    "category": "化工",
-    "readTime": "8分钟阅读",
-    "title": "CO₂转化研究：从催化机理走向工程放大",
-    "summary": "关注催化剂选择性、能耗和规模化之间的联系，为后续阅读研究论文建立问题清单。",
-    "source": "Nature Chemistry",
-    "url": "https://www.nature.com/nchem/",
-    "keywords": "二氧化碳还原 催化 碳捕集"
-  },
-  {
-    "category": "科技",
-    "readTime": "5分钟阅读",
-    "title": "如何快速判断一项新技术是否真正重要",
-    "summary": "从性能提升、应用边界、成本下降和可复制性四个维度，减少被单一指标误导。",
-    "source": "Nature",
-    "url": "https://www.nature.com/",
-    "keywords": "研究 前沿 论文 判断"
+    "category": "经济",
+    "title": "What is PHP and why did it spark a global cyber-security scramble?",
+    "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-23T12:24:17Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "readTime": "7分钟阅读",
-    "title": "技术浪潮如何影响生产率、就业与投资",
-    "summary": "把宏观叙事拆成企业投入、劳动效率和资本回报三个可观察的判断维度。",
-    "source": "IMF Blog",
-    "url": "https://www.imf.org/en/Blogs",
-    "keywords": "技术 生产率 投资 就业"
+    "title": "Island inflation rate rises to 3%, figures show",
+    "summary": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-23T11:58:19Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
   },
   {
-    "category": "化工",
-    "readTime": "6分钟阅读",
-    "title": "CCUS项目需要同时回答哪些工程问题",
-    "summary": "从气源纯度、捕集路线、运输条件和封存监测理解一条完整的碳管理链条。",
-    "source": "IEA",
-    "url": "https://www.iea.org/energy-system/carbon-capture-utilisation-and-storage",
-    "keywords": "能源 CCUS 碳捕集 工程"
+    "category": "经济",
+    "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+    "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-23T11:48:04Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "What is the Budget and what could be in it?",
+    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-23T08:14:04Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "浏览器 Arc 将于 12 月关闭",
+    "summary": "The Browser Company 宣布其浏览器 Arc 将于 12 月 22 日关闭，用户将无法再能启动应用。Arc 基于 Chromium，于 2023…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85692",
+    "publishedAt": "2026-10-23T07:25:16Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "Switch 2 越狱能运行自制程序",
+    "summary": "研究员 Sammy Hajhamid 利用软件漏洞在 Switch 2 上实现越狱，而且能运行自制程序。越狱利用了一个专门运行在任天堂硬件上的编程环境和解释器…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85691",
+    "publishedAt": "2026-10-23T07:11:05Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "KeePassXC 2.8.0 释出",
+    "summary": "开源密码管理器项目 KeePassXC 释出了 v2.8.0。KeePassXC 代表 KeePass Cross-Platform Community Edi…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85690",
+    "publishedAt": "2026-10-23T06:05:58Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
   },
   {
     "category": "AI",
-    "readTime": "4分钟阅读",
-    "title": "读AI论文前，先分清能力展示与可靠证据",
-    "summary": "检查基准、对照实验、数据污染与真实使用场景，让论文摘要服务于判断而非制造兴奋。",
-    "source": "arXiv",
-    "url": "https://arxiv.org/list/cs.AI/recent",
-    "keywords": "论文 机器学习 研究 证据"
+    "title": "逾半数美国人认为 AI 对社会有害",
+    "summary": "根据 ABC News/Washington Post/Ipsos 的调查，57%的美国人认为 AI 对社会有害，42%的人认为它对社会有益。仅有 2% 的人认…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85686",
+    "publishedAt": "2026-10-23T03:28:59Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "OpenClaw 作者称他上个月花掉了千万美元的 Tokens",
+    "summary": "周三旧金山举行的 Cloudflare Connect 2026 大会上，OpenAI 技术部成员、OpenClaw 作者 Peter Steinberger…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85682",
+    "publishedAt": "2026-10-23T03:22:08Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Coherent manipulation of Zr(III) aryloxide qudits",
+    "summary": "Zr(III) complexes have been historically challenging to isolate owing to their tendency to dimerize or disproportionate. Now, bulky aryloxide ligands have been used to kinetically stabilize…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02269-5",
+    "publishedAt": "2026-10-23T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Cooling water to near freezing breaks the activity–stability trade-off of water oxidation electrocatalysis",
+    "summary": "Temperature can influence competing catalytic pathways differently, but its role in balancing electrocatalytic activity and stability remains underexplored. Now it has been shown that cooling water…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02274-8",
+    "publishedAt": "2026-10-21T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Electrolytes that mind bridging the gap",
+    "summary": "Silicon anodes enable high-energy-density Li-ion batteries but face reversibility challenges when operating under extreme temperature and charge-rate conditions. Now, a liquid electrolyte design results in interface…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02287-3",
+    "publishedAt": "2026-10-20T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Stereochemical preorganization directs triple-helical assembly of Au4 nanoclusters",
+    "summary": "Translating local stereochemical information into higher-order helical architectures is a central challenge in materials design. Now it has been shown that stereochemically preorganized Au4 nanoclusters assemble…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02271-x",
+    "publishedAt": "2026-10-16T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
   }
 ]

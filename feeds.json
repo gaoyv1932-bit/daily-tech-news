@@ -1,0 +1,5 @@
+[
+  {"id":"solidot","name":"Solidot","url":"https://www.solidot.org/index.rss","category":"科技","language":"zh-CN","limit":6},
+  {"id":"nature-chemistry","name":"Nature Chemistry","url":"https://www.nature.com/nchem.rss","category":"化工","language":"en","limit":4},
+  {"id":"bbc-business","name":"BBC Business","url":"https://feeds.bbci.co.uk/news/business/rss.xml","category":"经济","language":"en","limit":4}
+]
