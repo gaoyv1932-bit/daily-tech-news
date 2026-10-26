@@ -1,23 +1,56 @@
 [
   {
     "category": "经济",
-    "title": "Budget to include £1bn for social and affordable housing",
-    "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+    "title": "What is the Budget and what could be in it?",
+    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-25T02:57:30Z",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-26T02:16:37Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Rosebank: Life on the oil field at the centre of a political storm",
-    "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+    "summary": "The economic is positive now but come January things could become trickier for the Labour government",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-24T23:15:18Z",
+    "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-26T00:26:49Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+    "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-25T23:44:34Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+    "summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85706",
+    "publishedAt": "2026-10-25T16:16:11Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Budget to include £1bn for social and affordable housing",
+    "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-25T10:03:17Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -41,39 +74,6 @@
     "url": "https://www.solidot.org/story?sid=85699",
     "publishedAt": "2026-10-24T13:14:51Z",
     "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
-    "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85698",
-    "publishedAt": "2026-10-24T12:53:21Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Rising demand from families needing Christmas help",
-    "summary": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-24T11:55:35Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Charity expects demand for Christmas present campaign",
-    "summary": "The campaign, run by Little Stars, is running from today until 4 December.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-24T09:53:42Z",
-    "language": "en",
     "summaryType": "source-excerpt"
   },
   {
