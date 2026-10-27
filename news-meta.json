@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-26T04:57:27Z",
+  "updatedAt": "2026-10-27T05:14:56Z",
   "schedule": "每天北京时间 08:17 左右",
   "sources": [
     {
       "id": "solidot",
       "name": "Solidot",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "id": "nature-chemistry",
@@ -21,5 +21,5 @@
       "count": 4
     }
   ],
-  "count": 12
+  "count": 11
 }

@@ -1,34 +1,67 @@
 [
   {
     "category": "经济",
-    "title": "What is the Budget and what could be in it?",
-    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+    "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+    "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-26T02:16:37Z",
+    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-27T01:57:48Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-    "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+    "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+    "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-26T00:26:49Z",
+    "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-27T01:48:04Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-    "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+    "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+    "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-25T23:44:34Z",
+    "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-27T00:01:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-26T19:57:23Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "Systemd 支持 Rust 程序",
+    "summary": "Systemd 支持用 Rust 语言开发程序。核心 systemd 代码如 systemd 库目前尚不支持 Rust 代码，但对于systemd 程序/末端组…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85710",
+    "publishedAt": "2026-10-26T08:02:23Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Enzymatic oxidative esterification with an unconventional regioselective control",
+    "summary": "Regioselective esterification remains challenging, particularly when multiple alcohol groups with similar reactivity are present. Now it has been shown that aldehyde dehydrogenases can be engineered into…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02288-2",
+    "publishedAt": "2026-10-26T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -44,17 +77,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "经济",
-    "title": "Budget to include £1bn for social and affordable housing",
-    "summary": "The move will take funding for the 10-year programme to more than £40bn.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-25T10:03:17Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "科技",
     "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
     "summary": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项…",
@@ -62,28 +84,6 @@
     "sourceId": "solidot",
     "url": "https://www.solidot.org/story?sid=85701",
     "publishedAt": "2026-10-24T13:50:21Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "美光桃园厂工会否决奖金方案",
-    "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85699",
-    "publishedAt": "2026-10-24T13:14:51Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "逾半数美国人认为 AI 对社会有害",
-    "summary": "根据 ABC News/Washington Post/Ipsos 的调查，57%的美国人认为 AI 对社会有害，42%的人认为它对社会有益。仅有 2% 的人认…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85686",
-    "publishedAt": "2026-10-23T03:28:59Z",
     "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
@@ -117,17 +117,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02287-3",
     "publishedAt": "2026-10-20T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Stereochemical preorganization directs triple-helical assembly of Au4 nanoclusters",
-    "summary": "Translating local stereochemical information into higher-order helical architectures is a central challenge in materials design. Now it has been shown that stereochemically preorganized Au4 nanoclusters assemble…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02271-x",
-    "publishedAt": "2026-10-16T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
