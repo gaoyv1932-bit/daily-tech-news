@@ -1,45 +1,111 @@
 [
   {
     "category": "经济",
-    "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-    "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-27T01:57:48Z",
+    "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-28T03:43:38Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-    "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-27T01:48:04Z",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-28T00:03:10Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-    "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+    "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
     "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-27T00:01:00Z",
+    "publishedAt": "2026-10-28T00:03:05Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-    "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+    "title": "'An annoying buzz': The search for stealthier drones",
+    "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-26T19:57:23Z",
+    "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-28T00:01:10Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "维基百科如何清理 AI 生成文本",
+    "summary": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 E…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85727",
+    "publishedAt": "2026-10-27T15:16:06Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "宇航员的心脏能承受飞往火星的数个月之旅",
+    "summary": "火星之旅对人类心脏的挑战可能没有科学家曾经担忧的那么大。一项研究表明，宇航员能够很好地适应数月的失重状态。在研究中，科学家监测了 13 名在国际空间站停留了约…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85724",
+    "publishedAt": "2026-10-27T10:57:21Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "Reddit 开源社区争议是否禁止 AI",
+    "summary": "美国社交新闻平台 Reddit 专注于讨论开源项目的社群 r/opensource 公布了禁止 AI 的政策《Your tokens aren't valuab…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85722",
+    "publishedAt": "2026-10-27T10:09:57Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "Anthropic 公布了 S1 文件",
+    "summary": "Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85717",
+    "publishedAt": "2026-10-27T06:33:38Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Synthesis and isolation of stable oxoboranes",
+    "summary": "Oxoboranes are among the longest-sought species in main-group chemistry. Now, stable crystalline oxoboranes with exceptionally short and strong B–O bonds have been prepared through the reaction…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02272-w",
+    "publishedAt": "2026-10-27T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Crystalline neutral and cationic oxoboranes",
+    "summary": "The isolation of oxoboranes featuring a genuine B–O triple bond is challenging owing to the instability of the B≡O linkage. Now stable crystalline oxoboranes have been…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02273-9",
+    "publishedAt": "2026-10-27T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -77,17 +143,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "科技",
-    "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
-    "summary": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85701",
-    "publishedAt": "2026-10-24T13:50:21Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Coherent manipulation of Zr(III) aryloxide qudits",
     "summary": "Zr(III) complexes have been historically challenging to isolate owing to their tendency to dimerize or disproportionate. Now, bulky aryloxide ligands have been used to kinetically stabilize…",
@@ -95,28 +150,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02269-5",
     "publishedAt": "2026-10-23T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Cooling water to near freezing breaks the activity–stability trade-off of water oxidation electrocatalysis",
-    "summary": "Temperature can influence competing catalytic pathways differently, but its role in balancing electrocatalytic activity and stability remains underexplored. Now it has been shown that cooling water…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02274-8",
-    "publishedAt": "2026-10-21T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Electrolytes that mind bridging the gap",
-    "summary": "Silicon anodes enable high-energy-density Li-ion batteries but face reversibility challenges when operating under extreme temperature and charge-rate conditions. Now, a liquid electrolyte design results in interface…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02287-3",
-    "publishedAt": "2026-10-20T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
