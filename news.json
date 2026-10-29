@@ -1,46 +1,57 @@
 [
   {
     "category": "经济",
-    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-    "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-28T03:43:38Z",
+    "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-29T03:16:19Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+    "title": "Microsoft profits soar days after announcing thousands of layoffs",
+    "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-28T00:03:10Z",
+    "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-29T01:27:40Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-    "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+    "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
     "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-28T00:03:05Z",
+    "publishedAt": "2026-10-29T00:00:25Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "'An annoying buzz': The search for stealthier drones",
-    "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+    "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+    "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-28T00:01:10Z",
+    "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-10-29T00:00:15Z",
     "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "女子信任 ChatGPT 的用药决策，结果因此猝死",
+    "summary": "一名住在西雅图的 31 岁华人女子，因依照 ChatGPT 提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。其父母向旧金山高等法院提起不当致死诉讼，控…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85737",
+    "publishedAt": "2026-10-28T14:46:03Z",
+    "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
   {
@@ -77,17 +88,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "AI",
-    "title": "Anthropic 公布了 S1 文件",
-    "summary": "Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85717",
-    "publishedAt": "2026-10-27T06:33:38Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Synthesis and isolation of stable oxoboranes",
     "summary": "Oxoboranes are among the longest-sought species in main-group chemistry. Now, stable crystalline oxoboranes with exceptionally short and strong B–O bonds have been prepared through the reaction…",
@@ -110,17 +110,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "科技",
-    "title": "Systemd 支持 Rust 程序",
-    "summary": "Systemd 支持用 Rust 语言开发程序。核心 systemd 代码如 systemd 库目前尚不支持 Rust 代码，但对于systemd 程序/末端组…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85710",
-    "publishedAt": "2026-10-26T08:02:23Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Enzymatic oxidative esterification with an unconventional regioselective control",
     "summary": "Regioselective esterification remains challenging, particularly when multiple alcohol groups with similar reactivity are present. Now it has been shown that aldehyde dehydrogenases can be engineered into…",
@@ -129,17 +118,6 @@
     "url": "https://www.nature.com/articles/s41557-026-02288-2",
     "publishedAt": "2026-10-26T00:00:00Z",
     "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
-    "summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85706",
-    "publishedAt": "2026-10-25T16:16:11Z",
-    "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
   {
