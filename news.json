@@ -1,6 +1,39 @@
 [
   {
     "category": "经济",
+    "title": "Shops looted as German cost of living protests turn violent",
+    "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-01T01:59:57Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+    "summary": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy cod…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85764",
+    "publishedAt": "2026-10-31T12:59:41Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "Kogui 族人谈 AI",
+    "summary": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85760",
+    "publishedAt": "2026-10-31T10:59:58Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
     "title": "Soaring cost of Halloween treats spooks shoppers",
     "summary": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
     "source": "BBC Business",
@@ -29,17 +62,6 @@
     "sourceId": "bbc-business",
     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_campaign=rss&at_medium=RSS",
     "publishedAt": "2026-10-30T20:34:46Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "City of London chief tops UK Black Powerlist",
-    "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-10-30T18:00:24Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -95,39 +117,6 @@
     "sourceId": "solidot",
     "url": "https://www.solidot.org/story?sid=85748",
     "publishedAt": "2026-10-29T15:19:44Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "研究发现非英语的 token 成本更高",
-    "summary": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85747",
-    "publishedAt": "2026-10-29T15:10:38Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "美国肯塔基男子成为首位以宗教理由豁免使用 AI 的人文主义者",
-    "summary": "45 岁的 David Durman 是肯塔基大学的研究管理员，作为人文主义者（humanist）他坚信生活中人的重要性。这意味着他要坚持自主决策，确保自己的工…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85743",
-    "publishedAt": "2026-10-29T09:13:23Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "因强制应用内支付 Google 和苹果被韩国罚款 3.2 亿元",
-    "summary": "韩国广电媒体通信委员会以强制开发者使用特定应用内支付方式、不当拖延应用审核等为由，对谷歌和苹果合计处以 637.1 亿韩元（约合人民币 3.2 亿元）罚款。这是…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85739",
-    "publishedAt": "2026-10-29T06:57:07Z",
     "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
