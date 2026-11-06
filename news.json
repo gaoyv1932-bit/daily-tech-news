@@ -1,45 +1,100 @@
 [
   {
     "category": "经济",
-    "title": "Poundland owner in crunch talks as retailer's collapse looms",
-    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+    "title": "'I've taken an extra job to pay for heating oil'",
+    "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-05T06:58:03Z",
+    "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-06T06:06:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Democrats won on affordability. Can they deliver it?",
-    "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+    "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-05T06:01:05Z",
+    "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-06T06:00:59Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Why do sausage rolls and veterinary fees vary in price across London?",
-    "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+    "title": "The engine parts that 'fight the laws of the universe'",
+    "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-05T05:56:46Z",
+    "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-06T00:06:06Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Pound rises to its highest level since the Brexit referendum",
-    "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+    "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+    "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-05T04:21:35Z",
+    "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-06T00:02:52Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
+    "summary": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85809",
+    "publishedAt": "2026-11-05T16:53:00Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "Google 和 OpenAI 的模型对特定口音有偏见",
+    "summary": "研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85804",
+    "publishedAt": "2026-11-05T09:00:58Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "任天堂最大 ROM 芯片供应商准备退出",
+    "summary": "任天堂 Switch 游戏机实体游戏卡带使用的 ROM 芯片供应也受到了 AI 热的影响。任天堂最大 ROM 芯片供应商旺宏电子在其第三季度财报中宣布它准备终止…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85801",
+    "publishedAt": "2026-11-05T06:53:08Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Aptamers enable a distinct mode of conformational DNA recognition",
+    "summary": "Aptamers have generally been understood as nucleic acids that recognize a specific ligand. Now it has been shown that secondary aptamers can recognize the ligand-bound conformation…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02286-4",
+    "publishedAt": "2026-11-05T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "A binuclear copper enzyme platform for enantioconvergent radical (pseudo)halogenation",
+    "summary": "Binuclear metalloenzymes remain underexplored for new-to-nature biocatalytic reactions. Now binuclear copper enzymes, particularly a Bacillus megaterium tyrosinase, are used as a catalytic platform for stereoselective radical…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02292-6",
+    "publishedAt": "2026-11-05T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -55,17 +110,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "AI",
-    "title": "Nexus Mods 公布 AI 生成内容政策",
-    "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85794",
-    "publishedAt": "2026-11-04T10:57:52Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "科技",
     "title": "苹果开始在中国推出 Apple Intelligence",
     "summary": "苹果从 11 月 4 日起开始在中国推出 AI 功能 Apple Intelligence，中国用户可通过最新的 iOS 开发者 Beta 版进行测试，AI 功…",
@@ -73,17 +117,6 @@
     "sourceId": "solidot",
     "url": "https://www.solidot.org/story?sid=85793",
     "publishedAt": "2026-11-04T09:55:53Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "SUSE 因 AI 而计划裁员十分之一",
-    "summary": "德国开源软件公司 SUSE 现有员工 1900 人，它计划裁掉十分之一的员工。CEO Dirk-Peter van Leeuwen 在电子邮件里表示，自动化和…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85791",
-    "publishedAt": "2026-11-04T08:23:37Z",
     "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
@@ -99,17 +132,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "科技",
-    "title": "Fedora Linux 45 释出",
-    "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85786",
-    "publishedAt": "2026-11-03T16:22:33Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Thermochemical adsorption at high overpotentials limits molecular CO-to-methanol electroreduction",
     "summary": "Applied potential controls charge-transfer kinetics, but thermochemical steps can limit electrocatalytic rates. Now it has been shown that CO-to-methanol conversion shifts from charge-transfer-limited kinetics to adsorption-limited…",
@@ -117,28 +139,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02285-5",
     "publishedAt": "2026-11-02T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Disentanglement of interfacial electric fields and electrochemical potential gradients reveals a multidimensional kinetic landscape",
-    "summary": "Electrochemical kinetics are shaped by both the thermodynamic driving force and interfacial polarization. Now it has been shown that that activation energies decrease with increasing potential…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02290-8",
-    "publishedAt": "2026-11-02T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "From poppies to pain relief",
-    "summary": "Madison Sowden discusses the origin of morphine, how the structure and medical effects were first studied, and how the compound is produced today.",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02265-9",
-    "publishedAt": "2026-10-30T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
