@@ -1,45 +1,56 @@
 [
   {
     "category": "经济",
-    "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+    "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+    "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-07T23:02:35Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Ipswich Town's new club shop 'here to stay'",
+    "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-07T21:40:32Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+    "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-07T21:36:16Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "广电总局整治 AI 低俗微短剧",
+    "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85821",
+    "publishedAt": "2026-11-07T11:19:42Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
     "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
     "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_campaign=rss&at_medium=RSS",
     "publishedAt": "2026-11-07T01:41:36Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-06T21:49:50Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "AI stocks climb after trillions wiped from market values",
-    "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-06T21:06:25Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Why the US midterms sparked an AI stock selloff",
-    "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-06T18:32:16Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -84,28 +95,6 @@
     "sourceId": "solidot",
     "url": "https://www.solidot.org/story?sid=85809",
     "publishedAt": "2026-11-05T16:53:00Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "Google 和 OpenAI 的模型对特定口音有偏见",
-    "summary": "研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85804",
-    "publishedAt": "2026-11-05T09:00:58Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "任天堂最大 ROM 芯片供应商准备退出",
-    "summary": "任天堂 Switch 游戏机实体游戏卡带使用的 ROM 芯片供应也受到了 AI 热的影响。任天堂最大 ROM 芯片供应商旺宏电子在其第三季度财报中宣布它准备终止…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85801",
-    "publishedAt": "2026-11-05T06:53:08Z",
     "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
