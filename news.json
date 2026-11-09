@@ -1,34 +1,45 @@
 [
   {
     "category": "经济",
-    "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-    "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+    "title": "How you can get council's £250 cost of living help",
+    "summary": "Applications for household grants of up to £250 are opening to some Surrey residents.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-07T23:02:35Z",
+    "url": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-09T06:11:28Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Ipswich Town's new club shop 'here to stay'",
-    "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+    "title": "Indoor soft play centres struggling to stay open",
+    "summary": "Jessica Harvey from Whitchurch said there were some days in the summer that no-one visited her centre.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-07T21:40:32Z",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-09T06:10:03Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-    "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+    "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+    "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-07T21:36:16Z",
+    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-09T06:01:52Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Government's EV targets expected to be reduced this week",
+    "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-09T05:00:43Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -41,17 +52,6 @@
     "url": "https://www.solidot.org/story?sid=85821",
     "publishedAt": "2026-11-07T11:19:42Z",
     "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-    "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-07T01:41:36Z",
-    "language": "en",
     "summaryType": "source-excerpt"
   },
   {
@@ -84,17 +84,6 @@
     "sourceId": "solidot",
     "url": "https://www.solidot.org/story?sid=85813",
     "publishedAt": "2026-11-06T05:45:44Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
-    "summary": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85809",
-    "publishedAt": "2026-11-05T16:53:00Z",
     "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
