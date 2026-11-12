@@ -1,45 +1,78 @@
 [
   {
     "category": "经济",
-    "title": "Electricity bills to rise by 2.5% from March",
-    "summary": "The increase will add just over £1 per week for a typical all-electric home, Jersey Electricity says.",
+    "title": "UK economy grows at fastest rate for more than two years",
+    "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6x292elgnm5o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-11T06:24:15Z",
+    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-12T07:16:54Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Robot vessels take on the dangerous work of mine hunting",
-    "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+    "title": "Are branded cold and flu tablets really worth the extra money?",
+    "summary": "Are branded cold and flu tablets REALLY worth the extra money?",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-11T00:19:13Z",
+    "url": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-12T06:17:06Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-    "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+    "title": "Gas bills to rise as Middle East turmoil persists",
+    "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-11T00:16:44Z",
+    "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-12T06:15:36Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+    "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-11T00:02:07Z",
+    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-12T04:18:33Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "AI 生成的代码并不可靠",
+    "summary": "一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无法覆…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85857",
+    "publishedAt": "2026-11-11T10:43:22Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Retraction Note: Real-time monitoring of reaction stereochemistry through single-molecule observations of chirality-induced spin selectivity",
+    "summary": "Retraction Note: Real-time monitoring of reaction stereochemistry through single-molecule observations of chirality-induced spin selectivity",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02320-5",
+    "publishedAt": "2026-11-11T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Conformationally driven negative chemotaxis in synthetic vesicles",
+    "summary": "Achieving negative chemotaxis without catalytic designs remains challenging in artificial systems. Now it has been shown that intrinsic membrane conformational dynamics generate interfacial tension gradients, driving…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02298-0",
+    "publishedAt": "2026-11-11T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -99,28 +132,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "AI",
-    "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
-    "summary": "高盛限制交易员和银行家使用 Anthropic 的 Claude Code 和微软的 GitHub，此举主要是出于风险方面的考虑。AI 编程工具主要提供给软件工…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85838",
-    "publishedAt": "2026-11-09T11:04:21Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "苹果将工程师的每日 AI 预算限制在 200 美元",
-    "summary": "世界市值最高的公司也开始对 AI 预算设限。苹果据报道将部分工程师的每日 AI 预算从 300 美元削减至 200 美元。苹果市值最近再次超过英伟达跃居第一。苹…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85833",
-    "publishedAt": "2026-11-09T06:40:12Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Author Correction: A photogenerated triplet aura-nitrene for gold-mediated nitrene transfer",
     "summary": "Author Correction: A photogenerated triplet aura-nitrene for gold-mediated nitrene transfer",
@@ -128,28 +139,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02300-9",
     "publishedAt": "2026-11-09T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Programming supramolecular polymer network topology via homochiral self-sorting",
-    "summary": "Stereochemistry greatly influences polymer structure and assembly, yet its use in controlling polymer network topology remains underexplored. Now, homochiral self-sorting is used to suppress primary-loop formation…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02282-8",
-    "publishedAt": "2026-11-09T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Aptamers enable a distinct mode of conformational DNA recognition",
-    "summary": "Aptamers have generally been understood as nucleic acids that recognize a specific ligand. Now it has been shown that secondary aptamers can recognize the ligand-bound conformation…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02286-4",
-    "publishedAt": "2026-11-05T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
