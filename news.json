@@ -1,45 +1,78 @@
 [
   {
     "category": "经济",
-    "title": "UK economy grows at fastest rate for more than two years",
-    "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+    "title": "Politicians back focus on cost of living",
+    "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-12T07:16:54Z",
+    "url": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-13T06:23:37Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Are branded cold and flu tablets really worth the extra money?",
-    "summary": "Are branded cold and flu tablets REALLY worth the extra money?",
+    "title": "Cider makers fear future for orchards as costs grow",
+    "summary": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-12T06:17:06Z",
+    "url": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-13T06:21:34Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "Gas bills to rise as Middle East turmoil persists",
-    "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
+    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-12T06:15:36Z",
+    "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-13T03:57:01Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-    "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+    "title": "'My window faces a brick wall': What's your rent in NYC?",
+    "summary": "We ask people in New York City how much they pay for their homes.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-12T04:18:33Z",
+    "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-13T01:30:31Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "《Big Walk》开发商利用 AI 修 Bug 引起争议",
+    "summary": "热门独游《Big Walk》开发商 House House 承认在生成式 AI 帮助下修 bug，结果在独立游戏节（Independent Games Fest…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85869",
+    "publishedAt": "2026-11-12T13:27:09Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "腾讯计划将半数员工部署到 AI 原生业务",
+    "summary": "腾讯创始人马化腾称，他愿意将半数员工投入到 AI 原生业务，并敦促公司逾 10 万名员工拥抱这项定义时代的技术。 马化腾本周在年度演讲中告诉员工，行业已进入“大…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85865",
+    "publishedAt": "2026-11-12T06:49:27Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Discovery and development of antimicrobial polymers",
+    "summary": "Antimicrobial polymers offer an attractive tool for combating the crisis of antimicrobial resistance. This Review highlights recent advances in antimicrobial polymer development and discusses future directions,…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02280-w",
+    "publishedAt": "2026-11-12T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -77,50 +110,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "科技",
-    "title": "波士顿动力为其人形机器人加入了轮子",
-    "summary": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85849",
-    "publishedAt": "2026-11-10T15:58:19Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "中国 Android 厂商开始要求开发者身份验证",
-    "summary": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideloa…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85848",
-    "publishedAt": "2026-11-10T11:18:31Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "生成式 AI 过度美化现实",
-    "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85847",
-    "publishedAt": "2026-11-10T11:04:32Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "Epic Games 计划支持尽可能多的 Linux 发行版",
-    "summary": "Epic Games 通讯主管 Jake Jones 表示，新 Epic Games 启动器目前处于预览阶段。Epic Games 计划支持尽可能多的 Linu…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85846",
-    "publishedAt": "2026-11-10T09:09:26Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Programming golden triple helices",
     "summary": "Chiral helical superstructures provide a platform to control photon polarization and electron spin, yet they are challenging to construct using inorganic materials. Now, homochiral triple helices…",
@@ -128,17 +117,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02304-5",
     "publishedAt": "2026-11-10T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Author Correction: A photogenerated triplet aura-nitrene for gold-mediated nitrene transfer",
-    "summary": "Author Correction: A photogenerated triplet aura-nitrene for gold-mediated nitrene transfer",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02300-9",
-    "publishedAt": "2026-11-09T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
