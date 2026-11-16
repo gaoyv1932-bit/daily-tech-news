@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T06:46:01Z",
+  "updatedAt": "2026-11-16T06:44:50Z",
   "schedule": "每天北京时间 08:17 左右",
   "sources": [
     {
       "id": "solidot",
       "name": "Solidot",
-      "status": "ok",
+      "status": "stale",
       "count": 1
     },
     {
