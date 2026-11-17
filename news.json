@@ -1,57 +1,101 @@
 [
   {
     "category": "经济",
-    "title": "Thrift shop ask donors to nominate a charity",
-    "summary": "The owners want customers and donors to decide what charities benefit each month.",
+    "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+    "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-16T06:03:39Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "'Break-in and rising costs could kill my business'",
-    "summary": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-16T05:57:19Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Investors sue chip giant Intel after 29% stock plunge",
-    "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-16T03:04:01Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-16T01:47:57Z",
+    "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-17T07:21:37Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "AI",
-    "title": "《Big Walk》开发商利用 AI 修 Bug 引起争议",
-    "summary": "热门独游《Big Walk》开发商 House House 承认在生成式 AI 帮助下修 bug，结果在独立游戏节（Independent Games Fest…",
+    "title": "Windows 收集用户计算机安装的编程智能体和开发工具",
+    "summary": "一位开发者利用 AI 工具寻找 Windows 未记录的功能，结果发现了一个 DLL 文件记录了用户使用的编程智能体如 codex.exe、claude.exe…",
     "source": "Solidot",
     "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85869",
-    "publishedAt": "2026-11-12T13:27:09Z",
+    "url": "https://www.solidot.org/story?sid=85908",
+    "publishedAt": "2026-11-17T06:50:24Z",
     "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+    "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-17T02:37:53Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Customers report service outages at major US banks",
+    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-17T00:18:01Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "We couldn't afford a house alone, so we bought one with strangers",
+    "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-17T00:00:02Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+    "summary": "微软公布了初步事件报告，称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故。它将于 11 月 20 日公布更详细的信息。微软称，它于今年 7 月部…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85903",
+    "publishedAt": "2026-11-16T15:00:34Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
+    "summary": "根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85899",
+    "publishedAt": "2026-11-16T09:26:54Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "Microsoft 365 宕机导致 15 名酒店客人氯气中毒",
+    "summary": "微软 Microsoft 365 服务上周发生了持续逾 24 小时的宕机事故，受影响的应用之一是电子邮件 Outlook。德国 Brühl 的梦幻乐园（Phan…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85895",
+    "publishedAt": "2026-11-16T06:38:00Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "A bowl-shaped nanocarbon incorporating an aromatic cyclopentadienide ring",
+    "summary": "Five-membered rings are ubiquitous in non-planar π systems, but are typically neutral, non-aromatic or anti-aromatic. Now a bowl-shaped nanocarbon incorporating an anionic, aromatic cyclopentadienide ring has…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02293-5",
+    "publishedAt": "2026-11-16T00:00:00Z",
+    "language": "en",
     "summaryType": "source-excerpt"
   },
   {
@@ -84,17 +128,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02298-0",
     "publishedAt": "2026-11-11T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Programming golden triple helices",
-    "summary": "Chiral helical superstructures provide a platform to control photon polarization and electron spin, yet they are challenging to construct using inorganic materials. Now, homochiral triple helices…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02304-5",
-    "publishedAt": "2026-11-10T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
