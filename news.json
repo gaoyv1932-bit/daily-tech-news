@@ -1,6 +1,28 @@
 [
   {
     "category": "经济",
+    "title": "Sessions offer advice on rising energy costs",
+    "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-21T12:09:49Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
+    "summary": "位于美国佛罗里达州的 RansomwareHelp.com 向勒索软件受害者提供解密服务，它通过其官网督促受害者不要支付赎金，声称它的先进解密工具能将数据、服务…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85950",
+    "publishedAt": "2026-11-21T10:11:05Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
     "source": "BBC Business",
@@ -29,17 +51,6 @@
     "sourceId": "bbc-business",
     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_campaign=rss&at_medium=RSS",
     "publishedAt": "2026-11-20T20:54:12Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-20T17:49:48Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -96,17 +107,6 @@
     "url": "https://www.nature.com/articles/s41557-026-02302-7",
     "publishedAt": "2026-11-20T00:00:00Z",
     "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
-    "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85931",
-    "publishedAt": "2026-11-19T08:24:44Z",
-    "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
   {
