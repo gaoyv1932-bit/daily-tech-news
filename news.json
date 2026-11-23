@@ -1,13 +1,57 @@
 [
   {
     "category": "经济",
-    "title": "Sessions offer advice on rising energy costs",
-    "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
+    "title": "Man swaps Australia for south Wales over 'unreal' house prices as locals struggle to buy",
+    "summary": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-21T12:09:49Z",
+    "url": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-23T06:03:32Z",
     "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Pip assessments need 'fundamental overhaul', report to say",
+    "summary": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-23T04:01:13Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Energy bills will soar - here's how you can ease the pain",
+    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-23T01:05:07Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-23T00:33:36Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+    "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85959",
+    "publishedAt": "2026-11-22T15:32:03Z",
+    "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
   {
@@ -19,39 +63,6 @@
     "url": "https://www.solidot.org/story?sid=85950",
     "publishedAt": "2026-11-21T10:11:05Z",
     "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-    "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-20T22:53:24Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-20T22:42:47Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "Trump threatens ban on US firms building AI data centres overseas",
-    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-20T20:54:12Z",
-    "language": "en",
     "summaryType": "source-excerpt"
   },
   {
