@@ -1,13 +1,57 @@
 [
   {
     "category": "经济",
-    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    "title": "Energy bills to rise by 26% from January",
+    "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-24T09:42:54Z",
+    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-25T08:38:13Z",
     "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "US attorney general dodges questions about Nvidia investigation",
+    "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-25T03:44:07Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "summary": "The verdict follows a months-long trial in New York.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-25T02:59:27Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Trump's rescue of Nvidia's Huang brings political risks",
+    "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-25T01:03:05Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "Windows Server 移除对 32 位应用的支持",
+    "summary": "微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85978",
+    "publishedAt": "2026-11-24T14:04:48Z",
+    "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
   {
@@ -33,35 +77,24 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "经济",
-    "title": "Why the rise of the corporate landlord could lead to a two-tier rental market",
-    "summary": "Companies building flats that they then rent out could usher in big changes for renters",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-24T00:28:48Z",
+    "category": "化工",
+    "title": "Author Correction: Molecular-docking electrolytes enable high-voltage lithium battery chemistries",
+    "summary": "Author Correction: Molecular-docking electrolytes enable high-voltage lithium battery chemistries",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02328-x",
+    "publishedAt": "2026-11-24T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
-    "category": "经济",
-    "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-    "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-24T00:11:08Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-    "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-24T00:01:04Z",
+    "category": "化工",
+    "title": "Construction of benzochalcogenaboroles via single-atom editing of boracycles",
+    "summary": "Skeletal editing can be harnessed to unlock biological activity. Here the reversible interconversion of benzoboretene and a boron–carbon diradical—termed a diradical reservoir process—enables modular access to…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02301-8",
+    "publishedAt": "2026-11-24T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -77,17 +110,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "科技",
-    "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
-    "summary": "Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 Grap…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85968",
-    "publishedAt": "2026-11-23T13:58:15Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "An artificial photoenzyme constrains substrates for selective antarafacial electrocyclizations",
     "summary": "Enzymatic electrocyclizations are scarce, with little known about the structural requirements for efficient catalysis. Now, an artificial photoenzyme has been engineered for highly selective 6π-electrocyclizations of…",
@@ -99,45 +121,12 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "AI",
-    "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
-    "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85959",
-    "publishedAt": "2026-11-22T15:32:03Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Isolable crystalline oxoboranes",
     "summary": "Oxoboranes, compounds featuring a central dicoordinate boron atom engaged in a B–O triple bond, have long been regarded as highly reactive and are typically observed only…",
     "source": "Nature Chemistry",
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02310-7",
-    "publishedAt": "2026-11-20T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Sorting reaction pathways to program alkene skeletons",
-    "summary": "Small changes in alkene structure usually mean big changes in synthetic routes. Now, nickel catalysts that sort radical and organometallic pathways can deliver four alkene architectures…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02306-3",
-    "publishedAt": "2026-11-20T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Globally antiaromatic anthracene–porphyrin nanobelts",
-    "summary": "Conjugated molecular belts show unusual electronic and magnetic properties owing to their radially oriented p orbitals. Now, anthracene-bridged porphyrin nanobelts have been synthesized through a nickel(0)-mediated…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02302-7",
     "publishedAt": "2026-11-20T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
