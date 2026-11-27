@@ -1,24 +1,57 @@
 [
   {
     "category": "经济",
-    "title": "Poundland collapses putting 11,000 jobs at risk",
-    "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+    "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-26T08:24:29Z",
+    "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-27T07:46:02Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
-    "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+    "title": "How much is your rent in Birmingham?",
+    "summary": "We ask people in the UK's second biggest how much they pay for their homes.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-26T07:40:04Z",
+    "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-27T06:11:32Z",
     "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "The food bank helping pet owners with rising bills",
+    "summary": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-27T06:11:13Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+    "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-27T00:58:49Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "图库平台充斥着生成式 AI 图像",
+    "summary": "根据发表在《The Quarterly Journal of Economics》期刊上的一项研究，今天的大型图库平台充斥着生成式 AI 图像。研究针对了一个在…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=85999",
+    "publishedAt": "2026-11-26T08:50:12Z",
+    "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
   {
@@ -33,24 +66,35 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "经济",
-    "title": "Parents cutting basics at Christmas, charity warns",
-    "summary": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-26T06:13:47Z",
+    "category": "化工",
+    "title": "The power of O vacancies in electrocatalysis",
+    "summary": "Non-stoichiometric oxide materials are essential to chemistry, but controlling their synthesis towards a tuneable number of unpaired electrons trapped in the oxygen vacancies remains challenging. Now,…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02316-1",
+    "publishedAt": "2026-11-26T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
-    "category": "经济",
-    "title": "US announces new tariffs on host of countries including China",
-    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-26T04:10:58Z",
+    "category": "化工",
+    "title": "Binuclear copper enzymes enable selective radical (pseudo)halogenation",
+    "summary": "Synthetically valuable new-to-nature reactions in copper enzymes remain largely underexploited in chemical synthesis. Now, the combination of binuclear copper enzymes and a photoredox catalyst can efficiently…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02311-6",
+    "publishedAt": "2026-11-26T00:00:00Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "化工",
+    "title": "Comprehensive synthesis of K48/K63 ubiquitin pentamers by graph-empowered automation",
+    "summary": "The combinatorial space of ubiquitin chains hampers their preparation and study. Now, synthetic and computational tools have been developed for comprehensive access to all 56 K48/K63-linked…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02312-5",
+    "publishedAt": "2026-11-26T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -66,17 +110,6 @@
     "summaryType": "source-excerpt"
   },
   {
-    "category": "AI",
-    "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
-    "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85992",
-    "publishedAt": "2026-11-25T15:26:31Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
     "category": "化工",
     "title": "Molar-mass- and sequence-defined vinyl macromolecules via iterative photoredox decarboxylative addition of α-substituted acrylates",
     "summary": "Free-radical polymerization of simple vinyl monomers typically provides limited control over molecular size and monomer sequence. Now iterative photoredox decarboxylative addition of bulky α-substituted acrylates has…",
@@ -84,50 +117,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02303-6",
     "publishedAt": "2026-11-25T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "科技",
-    "title": "Windows Server 移除对 32 位应用的支持",
-    "summary": "微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85978",
-    "publishedAt": "2026-11-24T14:04:48Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Author Correction: Molecular-docking electrolytes enable high-voltage lithium battery chemistries",
-    "summary": "Author Correction: Molecular-docking electrolytes enable high-voltage lithium battery chemistries",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02328-x",
-    "publishedAt": "2026-11-24T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Construction of benzochalcogenaboroles via single-atom editing of boracycles",
-    "summary": "Skeletal editing can be harnessed to unlock biological activity. Here the reversible interconversion of benzoboretene and a boron–carbon diradical—termed a diradical reservoir process—enables modular access to…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02301-8",
-    "publishedAt": "2026-11-24T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "An artificial photoenzyme constrains substrates for selective antarafacial electrocyclizations",
-    "summary": "Enzymatic electrocyclizations are scarce, with little known about the structural requirements for efficient catalysis. Now, an artificial photoenzyme has been engineered for highly selective 6π-electrocyclizations of…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02297-1",
-    "publishedAt": "2026-11-23T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
