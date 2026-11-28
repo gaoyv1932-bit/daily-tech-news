@@ -1,45 +1,78 @@
 [
   {
     "category": "经济",
+    "title": "Butcher blames costs for closure after 127 years",
+    "summary": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-28T07:18:47Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
+    "title": "Will new energy fixes cost more in January?",
+    "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+    "source": "BBC Business",
+    "sourceId": "bbc-business",
+    "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-27T16:05:32Z",
+    "language": "en",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "AI",
+    "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+    "summary": "GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=86014",
+    "publishedAt": "2026-11-27T15:59:17Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "科技",
+    "title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
+    "summary": "欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital…",
+    "source": "Solidot",
+    "sourceId": "solidot",
+    "url": "https://www.solidot.org/story?sid=86012",
+    "publishedAt": "2026-11-27T11:09:57Z",
+    "language": "zh-CN",
+    "summaryType": "source-excerpt"
+  },
+  {
+    "category": "经济",
     "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
     "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
     "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-27T07:46:02Z",
+    "publishedAt": "2026-11-27T10:10:36Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
     "category": "经济",
-    "title": "How much is your rent in Birmingham?",
-    "summary": "We ask people in the UK's second biggest how much they pay for their homes.",
+    "title": "'We're scared to turn our heating on'",
+    "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
     "source": "BBC Business",
     "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-27T06:11:32Z",
+    "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_campaign=rss&at_medium=RSS",
+    "publishedAt": "2026-11-27T08:47:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
   {
-    "category": "经济",
-    "title": "The food bank helping pet owners with rising bills",
-    "summary": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-27T06:11:13Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "经济",
-    "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-    "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
-    "source": "BBC Business",
-    "sourceId": "bbc-business",
-    "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_campaign=rss&at_medium=RSS",
-    "publishedAt": "2026-11-27T00:58:49Z",
+    "category": "化工",
+    "title": "Magnetic proximity effect in nanoparticle–molecule hybrids enables room-temperature circularly polarized luminescence",
+    "summary": "Achieving room-temperature circularly polarized luminescence (CPL) from achiral emitters is challenging because it usually requires elaborate molecular chirality engineering. Now magnetic proximity effects in nanoparticle–molecule hybrids…",
+    "source": "Nature Chemistry",
+    "sourceId": "nature-chemistry",
+    "url": "https://www.nature.com/articles/s41557-026-02283-7",
+    "publishedAt": "2026-11-27T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   },
@@ -51,17 +84,6 @@
     "sourceId": "solidot",
     "url": "https://www.solidot.org/story?sid=85999",
     "publishedAt": "2026-11-26T08:50:12Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop",
-    "summary": "《纽约时报》要求自由摄影师不要升级到内置 AI 功能的最新版本 Adob​​e Photoshop，理由是 AI 可能会以用户难以察觉的方式改变照片。《时报》摄…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85994",
-    "publishedAt": "2026-11-26T06:32:38Z",
     "language": "zh-CN",
     "summaryType": "source-excerpt"
   },
@@ -95,28 +117,6 @@
     "sourceId": "nature-chemistry",
     "url": "https://www.nature.com/articles/s41557-026-02312-5",
     "publishedAt": "2026-11-26T00:00:00Z",
-    "language": "en",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "AI",
-    "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
-    "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾…",
-    "source": "Solidot",
-    "sourceId": "solidot",
-    "url": "https://www.solidot.org/story?sid=85993",
-    "publishedAt": "2026-11-25T15:54:33Z",
-    "language": "zh-CN",
-    "summaryType": "source-excerpt"
-  },
-  {
-    "category": "化工",
-    "title": "Molar-mass- and sequence-defined vinyl macromolecules via iterative photoredox decarboxylative addition of α-substituted acrylates",
-    "summary": "Free-radical polymerization of simple vinyl monomers typically provides limited control over molecular size and monomer sequence. Now iterative photoredox decarboxylative addition of bulky α-substituted acrylates has…",
-    "source": "Nature Chemistry",
-    "sourceId": "nature-chemistry",
-    "url": "https://www.nature.com/articles/s41557-026-02303-6",
-    "publishedAt": "2026-11-25T00:00:00Z",
     "language": "en",
     "summaryType": "source-excerpt"
   }
